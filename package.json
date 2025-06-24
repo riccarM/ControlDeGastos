@@ -1,0 +1,20 @@
+{
+  "name": "controldegastos-main",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion full-stack para control de gastos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccarM/ControlDeGastos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riccarM/ControlDeGastos/issues"
+  },
+  "homepage": "https://github.com/riccarM/ControlDeGastos#readme"
+}
