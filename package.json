@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/riccarM/ControlDeGastos/issues"
   },
-  "homepage": "https://github.com/riccarM/ControlDeGastos#readme"
+  "homepage": "https://github.com/riccarM/ControlDeGastos#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.14.1",
+    "pug": "^3.0.3"
+  }
 }
