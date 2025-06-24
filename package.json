@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Esta es una aplicacion full-stack para control de gastos",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
